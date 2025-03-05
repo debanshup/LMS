@@ -28,7 +28,7 @@ cd src/backend
 npm install  
 
 # Install frontend dependencies
-cd src//frontend
+cd src/frontend
 npm install  
 
 3. Configure Environment Variables
